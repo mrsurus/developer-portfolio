@@ -48,4 +48,48 @@ img{
     font-weight: bold ;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
+   
+}
+
+.surus1{
+    margin-top: 150px;
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.welcome1{
+    height: auto;
+    width: 40%;
+    margin: 1% 10% 0 0;
+    padding: auto;
+   
+}
+.image1{
+    width: 50%;
+    height: auto;
+    margin: 1px auto;
+    padding-left: 5%;
+    margin-top: 20px;
+    text-align: center;
+  }  
+    
+
+  .image1 img{
+    height: 380px;
+    width: 390px;
+   padding: 0 auto;
+    
+   
+}
+.welcome1 a{
+    background-color: tomato;
+    border: none;
+    padding: 7px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold ;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+   
 }
